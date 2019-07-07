@@ -1,0 +1,178 @@
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\ApplicationInsights.config
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\roslyn\csc.exe
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\roslyn\vbc.exe
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\ProjectCIS.dll.config
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\ProjectCIS.dll
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\ProjectCIS.pdb
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\Antlr3.Runtime.dll
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\Microsoft.AI.Web.dll
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\Newtonsoft.Json.dll
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\System.Net.Http.Formatting.dll
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\System.Web.Http.dll
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\System.Web.Http.WebHost.dll
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\System.Web.Optimization.dll
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\WebGrease.dll
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\Microsoft.AI.Web.xml
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\System.Web.Optimization.xml
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\Antlr3.Runtime.pdb
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\Newtonsoft.Json.xml
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\System.Net.Http.Formatting.xml
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\System.Web.Http.xml
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\System.Web.Http.WebHost.xml
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\obj\Debug\ProjectCIS.csprojResolveAssemblyReference.cache
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\obj\Debug\ProjectCIS.dll
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\obj\Debug\ProjectCIS.pdb
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\EntityFramework.dll
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\EntityFramework.SqlServer.dll
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\EntityFramework.xml
+C:\Users\Aaron - Dream Team\Documents\Visual Studio 2015\Projects\ProjectCIS\ProjectCIS\bin\EntityFramework.SqlServer.xml
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\ApplicationInsights.config
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\roslyn\csc.exe
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\roslyn\System.Collections.Immutable.dll
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\roslyn\System.Reflection.Metadata.dll
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\roslyn\vbc.exe
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\roslyn\VBCSCompiler.exe
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\roslyn\VBCSCompiler.exe.config
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\ProjectCIS.dll.config
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\ProjectCIS.dll
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\ProjectCIS.pdb
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Antlr3.Runtime.dll
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\AspNet.ScriptManager.bootstrap.dll
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\AspNet.ScriptManager.jQuery.dll
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\EntityFramework.dll
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\EntityFramework.SqlServer.dll
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Microsoft.AI.Agent.Intercept.dll
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Microsoft.AI.DependencyCollector.dll
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Microsoft.AI.Web.dll
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Microsoft.AI.WindowsServer.dll
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Microsoft.ApplicationInsights.dll
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Microsoft.ScriptManager.WebForms.dll
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Microsoft.Web.Infrastructure.dll
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Newtonsoft.Json.dll
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\System.Net.Http.Formatting.dll
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\System.Web.Http.dll
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\System.Web.Http.WebHost.dll
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\System.Web.Optimization.dll
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\WebGrease.dll
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\EntityFramework.xml
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\EntityFramework.SqlServer.xml
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Microsoft.AI.DependencyCollector.xml
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Microsoft.AI.Web.xml
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Microsoft.AI.WindowsServer.xml
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Microsoft.ApplicationInsights.xml
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\System.Web.Optimization.xml
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Antlr3.Runtime.pdb
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Newtonsoft.Json.xml
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\System.Net.Http.Formatting.xml
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\System.Web.Http.xml
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\System.Web.Http.WebHost.xml
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\obj\Debug\ProjectCIS.dll
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\obj\Debug\ProjectCIS.pdb
+D:\aaron\Documents\uni greenwich\project\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\obj\Debug\ProjectCIS.csprojResolveAssemblyReference.cache
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\ApplicationInsights.config
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\roslyn\csc.exe
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\roslyn\System.Collections.Immutable.dll
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\roslyn\System.Reflection.Metadata.dll
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\roslyn\vbc.exe
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\roslyn\VBCSCompiler.exe
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\roslyn\VBCSCompiler.exe.config
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\ProjectCIS.dll.config
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\ProjectCIS.dll
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\ProjectCIS.pdb
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Antlr3.Runtime.dll
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\AspNet.ScriptManager.bootstrap.dll
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\AspNet.ScriptManager.jQuery.dll
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\EntityFramework.dll
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\EntityFramework.SqlServer.dll
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Microsoft.AI.Agent.Intercept.dll
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Microsoft.AI.DependencyCollector.dll
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Microsoft.AI.Web.dll
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Microsoft.AI.WindowsServer.dll
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Microsoft.ApplicationInsights.dll
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Microsoft.ScriptManager.WebForms.dll
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Microsoft.Web.Infrastructure.dll
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Newtonsoft.Json.dll
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\System.Net.Http.Formatting.dll
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\System.Web.Http.dll
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\System.Web.Http.WebHost.dll
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\System.Web.Optimization.dll
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\WebGrease.dll
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\EntityFramework.xml
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\EntityFramework.SqlServer.xml
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Microsoft.AI.DependencyCollector.xml
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Microsoft.AI.Web.xml
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Microsoft.AI.WindowsServer.xml
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Microsoft.ApplicationInsights.xml
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Newtonsoft.Json.xml
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\System.Web.Optimization.xml
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Antlr3.Runtime.pdb
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\System.Net.Http.Formatting.xml
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\System.Web.Http.xml
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\System.Web.Http.WebHost.xml
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\obj\Debug\ProjectCIS.csprojResolveAssemblyReference.cache
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\obj\Debug\ProjectCIS.dll
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\obj\Debug\ProjectCIS.pdb
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Hammock.ClientProfile.dll
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\TweetSharp.dll
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\Hammock.ClientProfile.pdb
+D:\aaron\Documents\ProjectCIS - finished main functionality 2\ProjectCIS\ProjectCIS\bin\TweetSharp.pdb
